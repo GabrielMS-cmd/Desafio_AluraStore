@@ -36,13 +36,31 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 
 ## 🔍 Principais Insights
 
-- A **Loja 1** apresentou o maior faturamento.
-- A **categoria "informática"** teve destaque em todas as lojas.
-- A **Loja 3** obteve a melhor avaliação média dos clientes.
-- O **produto 577** foi o mais vendido no geral.
-- Os fretes variam significativamente entre as lojas, afetando o custo final.
-- As vendas possuem padrão sazonal mensal, conforme o gráfico de linha por mês.
-- A visualização com **Folium** evidenciou concentração de vendas em regiões específicas do Brasil.
+📊 1. Faturamento
+- Loja 1 teve o maior faturamento (R$ 1.534.509).
+- Loja 4 teve o menor faturamento (R$ 1.384.497).
+
+💸 2. Ticket médio
+- Loja 1 também teve o maior ticket médio (~R$ 499,74).
+- Loja 4 apresentou o menor ticket médio (~R$ 454,75), sinalizando menor valor médio por venda.
+
+⭐ 3. Avaliação dos clientes
+- Loja 3 teve a melhor avaliação média (4.05).
+- Loja 1 teve a pior avaliação média (3.98), apesar do bom faturamento.
+
+📦 4. Vendas por categoria
+- Loja 3 se destacou em 3 categorias diferentes, mostrando boa diversidade e equilíbrio.
+- Loja 1 liderou em 2 categorias, com volume alto em móveis e eletrônicos.
+- Loja 4 teve desempenho mediano em todas as categorias, sem se destacar em nenhuma.
+
+🚚 5. Frete médio
+- Loja 4 teve o frete mais barato (R$ 31,28).
+Porém, isso não resultou em maior faturamento ou avaliação, sugerindo que o frete baixo não compensou a performance geral.
+
+🛒 6. Produtos mais e menos vendidos
+- Loja 2 teve o produto mais vendido com 65 unidades (“Iniciando em programação”).
+- Loja 4 teve um produto com apenas 33 unidades vendidas no pior desempenho (“Guitarra”).
+
 
 ## 🤔 Como Executar o Projeto
 
@@ -101,8 +119,8 @@ Dessa forma, manter as outras lojas pode ser mais estratégico para o cresciment
   - Gráfico de Vendas por Categoria: Vendas - Categoria.png
   - Gráfico de Vendas ao longo dos Meses : Vendas - Meses.png
   - Gráfico de Vendas por Produto: Vendas - Produtos.png
-  - Gráfico de Vendas por Região: Vendas - Região.jpg
-    └── mapa_vendas.html
+  - Gráfico de Densidade de Vendas por Região: Vendas - Região.jpg
+
   - Mapa de Densidade de Vendas: `imagens/mapa_vendas.html`
 
 ## 📄 Licença
