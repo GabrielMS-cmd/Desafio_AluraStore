@@ -77,11 +77,14 @@ Com base na análise dos dados de vendas, avaliações, faturamento, frete e dis
 
 **Justificativa:**
 
-1. Apresenta o menor faturamento total.
-2. É a loja com menor número de produtos vendidos.
-3. Possui a pior média de avaliação dos clientes.
-4. Tem o frete médio mais alto, o que pode afetar negativamente as vendas.
-5. Exibe a menor densidade geográfica de clientes, limitando o alcance do negócio.
+1. Pior faturamento.
+2. Pior ticket médio. **(faturamento / quantidade de vendas)**
+3. Nenhum destaque em avaliação.
+4. Só lidera em frete, mas isso não compensa os baixos resultados financeiros.
+5. Vendas totais menores que Loja 2 e 1.
+6. Empate ou abaixo em quase todos os critérios.
+
+
 
 Dessa forma, manter as outras lojas pode ser mais estratégico para o crescimento e lucratividade do negócio.
 
