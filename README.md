@@ -107,6 +107,7 @@ Dessa forma, manter as outras lojas pode ser mais estratégico para o cresciment
   - Gráfico de Faturamento: Faturamento - Total.png
   - Gráfico de Vendas por Categoria: Vendas - Categoria.png
   - Gráfico de Vendas ao longo dos Meses : Vendas - Meses.png
+  - Gráfico de Ticket Médio por Loja - Ticket - Loja.png
   - Gráfico de Vendas por Produto: Vendas - Produtos.png
   - Gráfico de Densidade de Vendas por Região: Vendas - Região.jpg
 
