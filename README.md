@@ -13,19 +13,6 @@ Utilizando bibliotecas como **Pandas**, **Matplotlib** e **Folium**, extrai insi
 - folium
 - Jupyter Notebook
 
-## 📁 Estrutura do Projeto
-
-```
-├── Desafio_LojasAlura_byGabriel.ipynb
-├── README.md
-└── imagens/
-    ├── Faturamento - Total.png
-    ├── Vendas - Categoria.png
-    ├── Vendas - Meses.png
-    ├── Vendas - Produtos.png
-    ├── Vendas - Região.jpg
-    └── mapa_vendas.html
-```
 
 ## 📌 Objetivos da Análise
 
