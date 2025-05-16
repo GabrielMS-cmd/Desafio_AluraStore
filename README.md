@@ -1,7 +1,7 @@
 
 # 📊 Challenge - Alura Store
 
-O desafio proposto consiste basicamente em ajudar o Senhor João a decidir qual loja da sua rede Alura Store vender para iniciar um novo empreendimento. Para isso, você utilizei dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store. O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.
+O desafio proposto consiste basicamente em ajudar o Senhor João a decidir qual loja da sua rede Alura Store vender para iniciar um novo empreendimento. Para isso, utilizei dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store. O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.
 
 Utilizando bibliotecas como **Pandas**, **Matplotlib** e **Folium**, extrai insights importantes sobre faturamento, categorias de produtos, avaliações, fretes e distribuição geográfica.
 
