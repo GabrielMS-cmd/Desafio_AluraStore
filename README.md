@@ -17,7 +17,11 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 ├── Desafio_LojasAlura_byGabriel.ipynb
 ├── README.md
 └── imagens/
-    ├── faturamento_lojas.png
+    ├── Faturamento - Total.png
+    ├── Vendas - Categoria.png
+    ├── Vendas - Meses.png
+    ├── Vendas - Produtos.png
+    ├── Vendas - Região.jpg
     └── mapa_vendas.html
 ```
 
@@ -90,7 +94,12 @@ Dessa forma, manter as outras lojas pode ser mais estratégico para o cresciment
   - Loja 3: `dados/loja3.csv`
   - Loja 4: `dados/loja4.csv`
 - **Imagens Geradas:**
-  - Gráfico de Faturamento: `imagens/faturamento_lojas.png`
+  - Gráfico de Faturamento: Faturamento - Total.png
+    Gráfico de Vendas por Categoria: Vendas - Categoria.png
+    Gráfico de Vendas ao longo dos Meses : Vendas - Meses.png
+    Gráfico de Vendas por Produto: Vendas - Produtos.png
+    Gráfico de Vendas por Região: Vendas - Região.jpg
+    └── mapa_vendas.html
   - Mapa de Densidade de Vendas: `imagens/mapa_vendas.html`
 
 ## 📄 Licença
