@@ -14,13 +14,8 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 ## 📁 Estrutura do Projeto
 
 ```
-├── analise_vendas.ipynb
+├── Desafio_LojasAlura_byGabriel.ipynb
 ├── README.md
-├── dados/
-│   ├── loja1.csv
-│   ├── loja2.csv
-│   ├── loja3.csv
-│   └── loja4.csv
 └── imagens/
     ├── faturamento_lojas.png
     └── mapa_vendas.html
@@ -50,8 +45,8 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 ### 🧪 No Google Colab
 
 1. Acesse o repositório no GitHub: [https://github.com/GabrielMS-cmd/Desafio_AluraStore](https://github.com/GabrielMS-cmd/Desafio_AluraStore)
-2. Abra o arquivo `analise_vendas.ipynb`.
-3. Clique em **"Abrir no Google Colab"** ou acesse diretamente: [https://colab.research.google.com/github/GabrielMS-cmd/Desafio_AluraStore/blob/main/analise_vendas.ipynb](https://colab.research.google.com/github/GabrielMS-cmd/Desafio_AluraStore/blob/main/analise_vendas.ipynb)
+2. Abra o arquivo `Desafio_LojasAlura_byGabriel.ipynb`.
+3. Clique em **"Abrir no Google Colab"** ou acesse diretamente: [https://colab.research.google.com/github/GabrielMS-cmd/Desafio_AluraStore/blob/main/Desafio_LojasAlura_byGabriel.ipynb](https://colab.research.google.com/github/GabrielMS-cmd/Desafio_AluraStore/blob/main/Desafio_LojasAlura_byGabriel.ipynb)
 4. Execute as células do notebook clicando no ícone de play ao lado de cada célula ou pressionando `Shift + Enter`.
 
 ### 💻 Localmente
@@ -67,7 +62,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
    ```
 3. Execute o notebook:
    ```bash
-   jupyter notebook analise_vendas.ipynb
+   jupyter notebook Desafio_LojasAlura_byGabriel.ipynb
    ```
 
 ## 💡 Recomendação Final
@@ -88,7 +83,7 @@ Dessa forma, manter as outras lojas pode ser mais estratégico para o cresciment
 
 ## 📌 Caminho dos Arquivos
 
-- **Notebook de Análise:** `analise_vendas.ipynb`
+- **Notebook de Análise:** `Desafio_LojasAlura_byGabriel`
 - **Dados das Lojas:**
   - Loja 1: `dados/loja1.csv`
   - Loja 2: `dados/loja2.csv`
