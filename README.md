@@ -12,6 +12,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 
 ## 📁 Estrutura do Projeto
 
+
 ├── analise_vendas.ipynb
 ├── README.md
 ├── dados/
@@ -33,8 +34,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 4. **Análise por Categoria de Produto**
 5. **Produtos Mais e Menos Vendidos**
 6. **Frete Médio por Loja**
-7. **Distribuição Geográfica das Vendas**
-8. **Séries Temporais de Vendas por Mês**
+
 
 ## 🔍 Principais Insights
 
@@ -46,7 +46,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
 - As vendas possuem padrão sazonal mensal, conforme o gráfico de linha por mês.
 - A visualização com **Folium** evidenciou concentração de vendas em regiões específicas do Brasil.
 
-## 📌 Como Executar o Projeto
+## 🤔 Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
@@ -54,7 +54,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de v
    cd analise-vendas-lojas
 
    
-## 📌 Recomendação Final
+## 💡 Recomendação Final
 Com base na análise dos dados de vendas, avaliações, faturamento, frete e distribuição geográfica das quatro lojas, a recomendação é que:
 
 O Senhor João deve vender a Loja 4.
