@@ -123,8 +123,3 @@ Dessa forma, manter as outras lojas pode ser mais estratégico para o cresciment
   - Gráfico de Vendas por Produto: Vendas - Produtos.png
   - Gráfico de Densidade de Vendas por Região: Vendas - Região.jpg
 
-  - Mapa de Densidade de Vendas: `imagens/mapa_vendas.html`
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
